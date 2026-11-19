@@ -1,0 +1,24 @@
+{
+  "dataset": "UCI PhiUSIIL Phishing URL Dataset (ID 967)",
+  "samples": 235370,
+  "train_samples": 188296,
+  "test_samples": 47074,
+  "accuracy": 0.9963461783574797,
+  "precision_phishing": 1.0,
+  "recall_phishing": 0.9914444886589734,
+  "f1_phishing": 0.9957038665201319,
+  "confusion_matrix_labels": [
+    "phishing(0)",
+    "legitimate(1)"
+  ],
+  "confusion_matrix": [
+    [
+      19932,
+      172
+    ],
+    [
+      0,
+      26970
+    ]
+  ]
+}
